@@ -1,0 +1,51 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/styles/styles.css" rel="stylesheet">
+    <link href="/styles/fontes.css" rel="stylesheet">
+    <title>landing page</title>
+</head>
+<body>
+ <header>
+<div id."title">
+    <h1>Consultoria de imagem</h1>
+    <h1>Moda do seu jeito</h1>
+    </div>
+
+    <ul>
+
+<a href="./serviços.html"><li>serviços</li></a>
+
+<a href="./sobre.html"><li>sobre</li></a>
+
+<a href="./contatos.html"><li>contato</li></a>
+    </ul>
+</header>
+
+<main>
+    <aside>
+     <h2>Cadastre-se agora</h2>
+     <h2> na MDJ</h2>
+    <p>
+        “Moda do seu jeito é uma empresa desenvolvida para pessoas que buscam o desenvolvimento de estilo pessoal, querendo assim passar uma imagem na qual se sintam seguras e confiantes, auxiliando na montagem de um closet composto por peças versáteis e que transmitam a essência de cada um.”
+          
+    </p>
+    <form>
+        <input type="text" placeholder="nome">
+        <input type="email" placeholder="email">
+        <input type="cidade" placeholder="cidade">
+        <input type="estado" placeholder="estado">
+        <input type="submit" value="enviar >">
+        </form>
+        </aside>
+        </article>
+        
+<img src="./images/Vogue-britanica-fevereiro-2022-4-removebg-preview.png">
+
+
+
+</article>
+</main>
+
+</body>
+</html>
