@@ -1,0 +1,32 @@
+<header>
+    <link href="/styles/styles.css" rel="stylesheet">
+    <link href="/styles/fontes.css" rel="stylesheet">
+    <div id."title">
+        <h1>Nossos serviços.</h1>
+        </div>
+    
+        <ul>
+    
+    </header>
+    
+    <main>
+        <aside>
+         
+         
+        <p>
+            “Oferecemos um serviço de consultoria de imagem, onde atuamos na montagem de closet. Além disso, auxiliamos nas compras de novas peças, ajuste de peças e colorimetria pessoal.”
+              
+        </p>
+        <form>
+           
+            
+    <img src="./fonts/closet.jpg">
+    <img src="fonts/negra chique.webp" >
+    
+    
+    </article>
+    </main>
+    
+    </body>
+    </html>
+    
