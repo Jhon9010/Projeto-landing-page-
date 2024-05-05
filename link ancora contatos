@@ -1,0 +1,32 @@
+<header>
+    <link href="/styles/styles.css" rel="stylesheet">
+    <link href="/styles/fontes.css" rel="stylesheet">
+    <div id."title">
+        <h1>Fale com a gente... </h1>
+        
+        </div>
+    
+        <ul>
+    
+    </header>
+    
+    <main>
+        <aside>
+         
+         <h2> Contatos </h2>
+        <p>telefone (99) 9 9999-9999
+<p>email:modadoseujeito@gmail.com
+<p>Endereço:Rua beco do chico doido 32 avenida 27
+
+              
+       
+            
+    <img src="./fonts/escritorio.jpg">
+    
+    
+    
+    </article>
+    </main>
+    
+    </body>
+    </html>
