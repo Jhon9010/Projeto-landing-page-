@@ -1,0 +1,30 @@
+<header>
+   
+    <link href="/styles/styles.css" rel="stylesheet">
+    <link href="/styles/fontes.css" rel="stylesheet">
+   
+    <div id."title">
+        <h1>Um pouco sobre nós...</h1>
+    
+    </header>
+    
+    <main>
+        <aside>
+         
+         
+        <p>
+            “A Moda do Seu Jeito” é uma empresa pensada para cuidar de você nos detalhes. Para isso, contamos com uma equipe excelente de profissionais. Nosso administrador, Obama, é o responsável por cuidar dos detalhes administrativos e vai auxiliar você em qualquer dúvida que possa ter em relação aos contratos. Nossa estilista, Beyoncé, é responsável pelo design das peças. Ela cria com todo carinho as novas peças do seu closet. E nossa querida Grazi é nossa costureira responsável por concretizar os projetos criados pela estilista.
+              
+        </p>
+        
+            
+    <img src="fonts/obama.jpg">
+    <img src="fonts/download.jpg">
+    <img src="fonts/grazi costureira.jpg">
+    
+    
+    </article>
+    </main>
+    
+    </body>
+    </html>
